@@ -1,0 +1,7 @@
+sleep 0.1 && input keyevent 3
+input swipe 655 1774 655 874
+sleep 1 && input tap 612 726
+sleep 0.1 && input tap 813 1000
+sleep 0.1 && input tap 813 1000
+sleep 0.1 && input tap 255 1000
+quit
